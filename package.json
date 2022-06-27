@@ -3,6 +3,8 @@
   "displayName": "css-style-transformer",
   "description": "a transformer between css and style",
   "version": "0.0.1",
+  "repository": "https://github.com/loljtdg/css-style-transformer",
+  "publisher": "9thSky",
   "engines": {
     "vscode": "^1.68.0"
   },
