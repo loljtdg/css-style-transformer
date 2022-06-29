@@ -2,7 +2,8 @@
 
 Automatically determine whether chosen code is css or react style, and transform each other.
 
-![preview](https://github.com/loljtdg/css-style-transformer/blob/main/src/assets/06z5s-z9wrr.gif)
+![preview](https://raw.githubusercontent.com/loljtdg/css-style-transformer/main/src/assets/06z5s-z9wrr.gif)
+
 
 ## Features
 
@@ -14,7 +15,7 @@ First, you should choose some css or react-style code. Then you can use menus or
 
 ## Release Notes
 
-### 0.0.2
+### 0.0.3
 
 Add preview gif
 
