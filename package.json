@@ -2,7 +2,7 @@
   "name": "css-style-transformer",
   "displayName": "css-style-transformer",
   "description": "a transformer between css and style",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/loljtdg/css-style-transformer",
   "publisher": "9thSky",
   "engines": {
